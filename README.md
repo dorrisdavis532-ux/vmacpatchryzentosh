@@ -7,8 +7,8 @@ Pre-built Mini vMac binaries for macOS, patched to work **without OpenGL** — u
 | Model | ROM Required | Description |
 |-------|-------------|-------------|
 | `minivmac-128k.app` | `Mac128K.ROM` | Macintosh 128K (1984) |
-| `minivmac-ii.app` | `MacII.ROM` | Macintosh II (1987) |
-| `minivmac-plus.app` | `MacPlus.ROM` | Macintosh Plus (1986) |
+| `minivmac-ii.app` | `vMac.ROM` | Macintosh II (1987) |
+| `minivmac-plus.app` | `vMac.ROM` | Macintosh Plus (1986) |
 
 ## Setup
 
@@ -16,8 +16,8 @@ Pre-built Mini vMac binaries for macOS, patched to work **without OpenGL** — u
 2. Get the matching ROM file (see below)
 3. Rename the ROM to match the expected name and place it **next to the app**:
    - `minivmac-128k.app` → expects `Mac128K.ROM`
-   - `minivmac-ii.app` → expects `MacII.ROM`
-   - `minivmac-plus.app` → expects `MacPlus.ROM`
+   - `minivmac-ii.app` → expects `vMac.ROM`
+   - `minivmac-plus.app` → expects `vMac.ROM`
 4. Launch the app
 
 ## ROM Files
