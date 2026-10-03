@@ -1,5 +1,7 @@
 # Mini vMac for macOS (No OpenGL Required)
 
+!! this was made by AI and wont be updated, forgot to say that only for hackintoshes that has small VRAM !!
+
 Pre-built Mini vMac binaries for macOS, patched to work **without OpenGL** — uses pure Core Graphics rendering instead. Works on Hackintosh and machines where OpenGL drivers are broken.
 
 ## Downloads
